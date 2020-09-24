@@ -20,7 +20,7 @@ GitHub: https://github.com/powerthecoder/
 Website: https://powerthecoder.xyz/
 
 """)
- 
+
 @client.event
 async def on_ready():
     print("-"*30)
