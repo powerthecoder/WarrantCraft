@@ -10,7 +10,7 @@ import sys
 prefix_list = [
     "=",
     "!"
-] 
+]
 client = commands.Bot(command_prefix=prefix_list)
 client.remove_command("help")
 
